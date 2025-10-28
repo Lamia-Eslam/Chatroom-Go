@@ -3,7 +3,7 @@ This task implements a simple multi-client chatroom using Go.
 Multiple clients can connect to a single TCP server, send messages, and receive the chat history.  
 
 Demo: 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://fengtantaedu-my.sharepoint.com/personal/ug_31094209_f-eng_tanta_edu_eg/_layouts/15/stream.aspx?id=%2Fpersonal%2Fug%5F31094209%5Ff%2Deng%5Ftanta%5Fedu%5Feg%2FDocuments%2FRecording%2D20251028%5F223331%2Ewebm)
+[Click here to watch the demo](https://fengtantaedu-my.sharepoint.com/personal/ug_31094209_f-eng_tanta_edu_eg/_layouts/15/stream.aspx?id=%2Fpersonal%2Fug%5F31094209%5Ff%2Deng%5Ftanta%5Fedu%5Feg%2FDocuments%2FRecording%2D20251028%5F223331%2Ewebm)
 
 # Server
 - Opens TCP connections on a specific port.
